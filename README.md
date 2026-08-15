@@ -19,8 +19,8 @@ Estudiante de **Desarrollo de Aplicaciones Web**, en busca de oportunidades para
 ## 📊 Estadísticas de GitHub
 
 <p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=moithecreator&show_icons=true&theme=default" alt="Estadísticas de GitHub" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moithecreator&layout=compact" alt="Lenguajes más usados" />
+  <img height="165" src="https://github-readme-stats-alpha-ten-43.vercel.app/api?username=moithecreator&show_icons=true&theme=default" alt="Estadísticas de GitHub" />
+  <img height="165" src="https://github-readme-stats-alpha-ten-43.vercel.app/api/top-langs/?username=moithecreator&layout=compact" alt="Lenguajes más usados" />
 </p>
 
 <p align="left">
