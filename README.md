@@ -2,7 +2,6 @@
 
 Estudiante de **Desarrollo de Aplicaciones Web**, en busca de oportunidades para seguir aprendiendo y crecer profesionalmente trabajando con diferentes lenguajes y tecnologías.
 
-- 🌱 Actualmente profundizando en Java, Spring Boot y desarrollo backend
 - 💬 Abierto a colaborar en proyectos y a nuevas oportunidades laborales
 - 📫 Contáctame por [LinkedIn](https://www.linkedin.com/in/mois%C3%A9s-alberto-dom%C3%ADnguez-cruz/)
 
@@ -15,6 +14,10 @@ Estudiante de **Desarrollo de Aplicaciones Web**, en busca de oportunidades para
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ## 📊 Estadísticas de GitHub
 
